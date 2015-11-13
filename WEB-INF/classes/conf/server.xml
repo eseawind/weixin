@@ -7,8 +7,8 @@
 			<driverclass memo="驱动类">oracle.jdbc.driver.OracleDriver</driverclass>
 			<!--<jdbcurl memo="访问URL"><![CDATA[jdbc:oracle:thin:@183.62.43.106:1521:orcl]]></jdbcurl> --><!--外部-->
 			<jdbcurl memo="访问URL"><![CDATA[jdbc:oracle:thin:@localhost:1521:orcl]]></jdbcurl><!--local0.126-->
-			<username memo="数据库用户">midi_new1224</username>
-			<password memo="数据库密码">midi_new1224</password>
+			<username memo="数据库用户">weixin</username>
+			<password memo="数据库密码">weixin</password>
 			<!--<jdbcurl memo="访问URL"><![CDATA[jdbc:oracle:thin:@localhost:1521:orcl]]></jdbcurl>
 			<username memo="数据库用户">jxstar</username>
 			<password memo="数据库密码">jxstar</password> -->
