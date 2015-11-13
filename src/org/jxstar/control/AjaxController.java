@@ -17,7 +17,7 @@ import javax.servlet.http.HttpServletResponse;
 import org.jxstar.control.action.Action;
 import org.jxstar.util.factory.SystemFactory;
 import org.jxstar.util.resource.JsMessage;
-
+ 
 /**
  * 所有前端请求的控制器。
  *

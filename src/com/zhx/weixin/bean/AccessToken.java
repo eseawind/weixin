@@ -4,7 +4,7 @@ import java.util.Date;
 
 /**
  * 微信通用接口凭证
- * 
+ *  
  * @author liufeng
  * @date 2013-08-08
  */
