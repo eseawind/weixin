@@ -1,0 +1,56 @@
+﻿/*  ZHX项目自定义按钮用到的样式  */
+.eb_cmmt {background-image:url( ../images/audit.gif) !important;}
+.eb_stop{background-image:url( ../images/stop.png) !important;}
+.eb_back{background-image:url( ../images/return.gif) !important;}
+
+/* 显示企划数据的背景样式 */
+.row_sum_bg {background-color:#C9E4FF;}
+.row_title_bg {background-color:#EBECED;}
+
+/*  显示款式图控件的样式  */
+#phones {
+    background-color: #fff;
+    text-shadow: #fff 0 1px 0;
+}
+
+#phones ul {
+    position: relative;
+    display: block;
+    height: auto;
+}
+
+#phones ul li img {
+    margin-bottom: 1px;
+}
+
+#phones ul li {
+    float: left;
+    padding: 2px;
+    margin: 2px;
+    text-align: center;
+    color: #000;
+    font: 11px Arial, Helvetica, sans-serif;
+    height: 210px;
+    width: 150px;
+    overflow: hidden;
+    border-top: 1px solid transparent;
+    cursor: pointer;
+}
+
+#phones ul li.phone-hover {
+    background-color: #eee;
+}
+
+#phones ul li.x-view-selected {
+    background-color: #C9E4FF;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+}
+
+#phones ul li img {
+/*    display: block;*/
+}
+
+.x-slider-horz .x-slider-thumb {
+    background-image: url(images/slider-thumb.png);
+}

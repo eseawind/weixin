@@ -1,0 +1,1 @@
+﻿jdLang['imp_list'] = {	'imp_list__fun_id':'功能标识',	'imp_list__fun_name':'功能名称',	'imp_list__tpl_file':'模板文件',	'imp_list__tpl_type':'模板类型',	'imp_list__imp_index':'序号',	'imp_list__insert_sql':'新增SQL',	'imp_list__imp_id':'定义ID'};

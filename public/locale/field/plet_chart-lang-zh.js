@@ -1,0 +1,1 @@
+﻿jdLang['plet_chart'] = {	'plet_chart__chart_name':'图形名称',	'plet_chart__chart_type':'图形类型',	'plet_chart__field_type':'分类字段',	'plet_chart__field_stat':'统计字段',	'plet_chart__result_sql':'结果集SQL',	'plet_chart__chart_id':'图形ID'};

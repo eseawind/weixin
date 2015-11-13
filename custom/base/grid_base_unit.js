@@ -1,0 +1,1 @@
+JxUtil.cusCols=[{n:'base_unit__unit_name',w:113,h:false},{n:'base_unit__keep_num',w:187,h:false},{n:'base_unit__auditing',w:78,h:false},{n:'base_unit__unit_memo',w:253,h:true},{n:'base_unit__unit_id',w:100,h:true}]

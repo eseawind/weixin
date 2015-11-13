@@ -1,0 +1,1 @@
+﻿jdLang['fun_status'] = {	'fun_status__control_code':'控件代号',	'fun_status__audit0':'未提交值',	'fun_status__audit1':'已提交值',	'fun_status__audit_e':'终止值',	'fun_status__audit_b':'退回值',	'fun_status__audit2':'审批中值',	'fun_status__audit3':'审批通过值',	'fun_status__audit4':'审批否决值',	'fun_status__status_memo':'说明',	'fun_status__status_id':'主键',	'fun_status__fun_id':'功能ID'};

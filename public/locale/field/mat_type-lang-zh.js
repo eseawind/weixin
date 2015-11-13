@@ -1,0 +1,1 @@
+﻿jdLang['mat_type'] = {	'mat_type__type_code':'类别编号',	'mat_type__type_name':'类别名称',	'mat_type__type_memo':'备注',	'mat_type__type_level':'级别',	'mat_type__type_id':'类别ID'};

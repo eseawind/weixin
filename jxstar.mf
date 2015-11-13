@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Administrator
+Build-Jdk: 1.6.0_03
+Implementation-Title: jxstar-webapp Maven Webapp
+Implementation-Version: 1.0
+Implementation-Vendor-Id: org.jxstar
+Implementation-Vendor: Guangzhou Donghong Software Technology Inc.
+Build-Time: 20141218-110235
+Implementation-Build: 4268
+

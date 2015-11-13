@@ -1,0 +1,1 @@
+﻿jdLang['sys_user_funx'] = {	'fun_base__fun_name':'功能名称',	'sys_user_funx__ext_sql':'数据权限SQL',	'sys_user_funx__fun_id':'功能ID',	'sys_user_funx__user_funx_id':'设置ID',	'sys_user_funx__user_id':'用户ID'};

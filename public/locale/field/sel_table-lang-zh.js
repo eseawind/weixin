@@ -1,0 +1,1 @@
+﻿jdLang['sel_table'] = {	'dm_table__table_name':'表名称',	'dm_table__table_title':'表标题',	'dm_table__ds_name':'数据源',	'dm_table__table_type':'表类型',	'dm_table__key_field':'表主键',	'dm_table__table_space':'表空间',	'dm_table__table_id':'表ID',	'dm_table__state':'状态',	'dm_table__table_memo':'表说明'};

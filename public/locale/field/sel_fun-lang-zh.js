@@ -1,0 +1,1 @@
+﻿jdLang['sel_fun'] = {	'fun_base__fun_name':'功能名称',	'fun_base__fun_id':'功能ID',	'fun_base__reg_type':'注册类型',	'fun_base__module_id':'功能模块ID'};

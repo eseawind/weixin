@@ -1,0 +1,1 @@
+﻿jdLang['sys_stat'] = {	'sys_stat__stat_name':'统计方案名称',	'sys_stat__is_share':'共享?',	'sys_stat__user_name':'创建人',	'sys_stat__stat_id':'主键',	'sys_stat__user_id':'创建人ID',	'sys_stat__fun_id':'功能ID'};

@@ -1,0 +1,1 @@
+﻿jdLang['dm_indexcfg_rep'] = {	'dm_indexcfg__state':'状态',	'dm_indexcfg__index_name':'索引名称',	'dm_indexcfg__index_field':'相关字段',	'dm_indexcfg__isunique':'唯一?',	'dm_indexcfg__index_memo':'索引说明',	'dm_indexcfg__index_id':'索引ID',	'dm_indexcfg__table_id':'表ID'};

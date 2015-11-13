@@ -1,0 +1,1 @@
+﻿jdLang['event_param'] = {	'fun_event_param__param_type':'参数类型',	'fun_event_param__param_name':'参数名称',	'fun_event_param__param_value':'参数值',	'fun_event_param__param_index':'序号',	'fun_event_param__param_memo':'参数说明',	'fun_event_param__param_id':'参数ID',	'fun_event_param__invoke_id':'调用ID'};

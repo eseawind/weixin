@@ -1,0 +1,1 @@
+﻿jdLang['sys_dept'] = {	'sys_dept__dept_code':'部门编码',	'sys_dept__dept_name':'部门名称',	'sys_dept__memo':'备注',	'sys_dept__is_novalid':'是否注销',	'sys_dept__dept_level':'部门级别',	'sys_dept__dept_id':'部门ID'};

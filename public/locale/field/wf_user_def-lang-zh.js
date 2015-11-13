@@ -1,0 +1,1 @@
+﻿jdLang['wf_user_def'] = {	'wf_process__process_code':'过程编号',	'wf_process__process_name':'过程名称',	'wf_process__fun_name':'功能名称',	'wf_process__version_no':'版本号',	'wf_node__node_title':'节点名称',	'wf_node__node_id':'节点ID',	'wf_process__process_id':'过程ID',	'wf_process__module_id':'模块ID',	'wf_nodeattr__nodeattr_id':'属性ID',	'wf_process__fun_id':'功能ID'};

@@ -1,0 +1,1 @@
+﻿jdLang['send_user'] = {	'plet_msg_user__user_name':'收件人',	'plet_msg_user__dept_name':'部门名称',	'plet_msg_user__user_id':'收件人ID',	'plet_msg_user__dept_id':'部门ID',	'plet_msg_user__msg_id':'消息ID',	'plet_msg_user__key_id':'主键'};

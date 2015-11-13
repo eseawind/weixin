@@ -1,0 +1,1 @@
+﻿jdLang['plet_templet'] = {	'plet_templet__templet_no':'模板序号',	'plet_templet__templet_name':'模板名称',	'plet_templet__col_num':'显示列数',	'plet_templet__col_width':'列宽',	'plet_templet__templet_id':'模板ID'};

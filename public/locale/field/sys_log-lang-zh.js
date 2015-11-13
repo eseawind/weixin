@@ -1,0 +1,1 @@
+﻿jdLang['sys_log'] = {	'sys_log__log_date':'记录时间',	'sys_log__fun_name':'功能名称',	'sys_log__data_id':'数据ID',	'sys_log__event_name':'事件名称',	'sys_log__user_name':'用户名',	'sys_log__message':'消息',	'sys_log__fun_id':'功能ID',	'sys_log__event_code':'事件代码',	'sys_log__page_type':'页面类型',	'sys_log__user_id':'用户ID',	'sys_log__log_id':'主键'};

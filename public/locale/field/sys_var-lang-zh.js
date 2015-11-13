@@ -1,0 +1,1 @@
+﻿jdLang['sys_var'] = {	'sys_var__var_code':'属性编码',	'sys_var__var_name':'属性名称',	'sys_var__var_value':'属性值',	'sys_var__use_page':'用于页面?',	'sys_var__var_memo':'属性描述',	'sys_var__var_id':'属性ID'};

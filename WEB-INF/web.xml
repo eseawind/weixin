@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-app version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+
+  <display-name>Welcome to Jxstar</display-name>
+  <!-- Define Jxstar Filter -->
+  <!-- cachetype param is cache file type; expires param is expires day num -->
+  <filter>
+    <filter-name>jxstarFilter</filter-name>
+    <filter-class>org.jxstar.control.filter.JxstarFilter</filter-class>
+    <init-param>
+		<param-name>encoding</param-name>
+		<param-value>UTF-8</param-value>
+    </init-param>
+    <init-param>
+		<param-name>illegalsql</param-name>
+		<param-value>; system.; sys.; drop ; delete ; update ; create ;</param-value>
+    </init-param>
+  </filter>
+  <filter>
+    <filter-name>oneLoginFilter</filter-name>
+    <filter-class>org.jxstar.control.login.OneLoginFilter</filter-class>
+  </filter>
+
+  <!-- Define Jxstar Filter Mapping -->
+  <filter-mapping>
+    <filter-name>jxstarFilter</filter-name>
+    <url-pattern>/*</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>oneLoginFilter</filter-name>
+    <url-pattern>/page.jsp</url-pattern>
+  </filter-mapping>
+  <filter-mapping>
+    <filter-name>oneLoginFilter</filter-name>
+    <url-pattern>/main.jsp</url-pattern>
+  </filter-mapping>
+  
+  <!-- Define Jxstar Listener -->
+  <listener><listener-class>org.jxstar.control.filter.UserHttpSessionListener</listener-class></listener>
+
+  <!-- Define Jxstar Control Servlet -->
+  <servlet>
+    <servlet-name>startup</servlet-name>
+    <servlet-class>org.jxstar.control.StartupController</servlet-class>
+    <init-param>
+      <param-name>config</param-name>
+      <param-value>conf/server.xml</param-value>
+    </init-param>
+    <init-param>
+      <param-name>logfile</param-name>
+      <param-value>conf/log.properties</param-value>
+    </init-param>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet>
+    <servlet-name>Action</servlet-name>
+    <servlet-class>org.jxstar.control.AjaxController</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Gzip</servlet-name>
+    <servlet-class>org.jxstar.control.GzipServlet</servlet-class>
+  </servlet>
+  <servlet>
+		<servlet-name>wxService</servlet-name>
+		<servlet-class>
+			com.zhx.weixin.servlet.CoreServlet
+		</servlet-class>
+	</servlet>
+
+	<!-- url-pattern中配置的/coreServlet用于指定该Servlet的访问路径 -->
+	<servlet-mapping>
+		<servlet-name>wxService</servlet-name>
+		<url-pattern>/wxService</url-pattern>
+	</servlet-mapping>
+  <!--系统注册处理servlet，license文件处理，客户许可模块文件处理-->
+  <servlet>
+   <servlet-name>SystemRegServlet</servlet-name>
+   <servlet-class>com.zhx.system.SystemRegServlet</servlet-class>
+  </servlet>
+  <!-- Define the Control Servlet Mapping -->
+  <servlet-mapping>
+    <servlet-name>startup</servlet-name>
+    <url-pattern>/reload.rd</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Action</servlet-name>
+    <url-pattern>*.do</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Gzip</servlet-name>
+    <url-pattern>/public/*</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SystemRegServlet</servlet-name>
+    <url-pattern>/sysregServlet</url-pattern>
+  </servlet-mapping>
+  <session-config>
+    <session-timeout>300</session-timeout>
+  </session-config>
+
+  <mime-mapping>
+    <extension>xls</extension>
+    <mime-type>application/vnd.ms-excel</mime-type>
+  </mime-mapping>
+
+  <welcome-file-list>
+    <!--welcome-file>main.jsp</welcome-file-->
+	<welcome-file>index.jsp</welcome-file>
+	<welcome-file>index.html</welcome-file>  </welcome-file-list>
+</web-app>

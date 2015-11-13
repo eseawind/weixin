@@ -1,0 +1,1 @@
+﻿jdLang['sys_datatype'] = {	'sys_datatype__dtype_name':'数据名称',	'sys_datatype__dtype_field':'权限字段',	'sys_datatype__funid':'来源功能',	'sys_datatype__fun_field':'来源字段',	'sys_datatype__fun_vfield':'显示字段',	'sys_datatype__control_code':'控件代码',	'sys_datatype__dtype_id':'设置ID'};

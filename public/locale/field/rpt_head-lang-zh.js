@@ -1,0 +1,1 @@
+﻿jdLang['rpt_head'] = {	'rpt_head__display':'字段标签',	'rpt_head__col_code':'显示值',	'rpt_head__col_pos':'显示位置',	'rpt_head__format':'显示样式',	'rpt_head__head_id':'表头ID',	'rpt_head__report_id':'报表ID'};

@@ -1,0 +1,1 @@
+﻿jdLang['dm_reverse'] = {	'v_table_info__table_name':'表名',	'v_table_info__table_title':'表标题',	'v_table_info__table_space':'表空间'};

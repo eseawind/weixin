@@ -1,0 +1,1 @@
+﻿jdLang['plet_kpi'] = {	'plet_kpi__kpi_name':'指标名称',	'plet_kpi__value_type':'值类型',	'plet_kpi__mb_value':'目标值',	'plet_kpi__zy_value':'注意值',	'plet_kpi__bj_value':'报警值',	'plet_kpi__kpi_sql':'统计SQL',	'plet_kpi__kpi_id':'指标ID'};

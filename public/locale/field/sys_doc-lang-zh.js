@@ -1,0 +1,1 @@
+﻿jdLang['sys_doc'] = {	'sys_doc__edit_date':'上传日期',	'sys_doc__edit_user':'上传人',	'sys_doc__doc_name':'文件名称',	'sys_doc__is_cancel':'是否注销',	'sys_doc__doc_memo':'文件说明',	'sys_doc__edit_userid':'上传人ID',	'sys_doc__doc_id':'主键'};

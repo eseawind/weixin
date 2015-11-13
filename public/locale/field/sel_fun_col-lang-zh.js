@@ -1,0 +1,1 @@
+﻿jdLang['sel_fun_col'] = {	'fun_col__col_code':'字段代码',	'fun_col__col_name':'字段名称',	'fun_col__data_type':'数据类型',	'fun_col__col_id':'字段ID',	'fun_col__fun_id':'功能ID'};

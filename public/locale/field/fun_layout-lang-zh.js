@@ -1,0 +1,1 @@
+﻿jdLang['fun_layout'] = {	'funall_layout__layout_path':'布局路径',	'funall_layout__layout_memo':'布局描述',	'funall_layout__layout_id':'布局ID'};

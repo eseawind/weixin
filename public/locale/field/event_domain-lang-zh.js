@@ -1,0 +1,1 @@
+﻿jdLang['event_domain'] = {	'funall_domain__domain_code':'域事件代码',	'funall_domain__domain_name':'域事件名称',	'funall_domain__domain_id':'域id'};

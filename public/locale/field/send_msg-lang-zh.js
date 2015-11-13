@@ -1,0 +1,1 @@
+﻿jdLang['send_msg'] = {	'plet_msg__to_user':'收件人',	'plet_msg__from_user':'发件人',	'plet_msg__content':'消息内容',	'plet_msg__send_date':'发送时间',	'plet_msg__read_date':'阅读时间',	'plet_msg__msg_state':'消息状态',	'plet_msg__msg_type':'消息类型',	'plet_msg__msg_id':'消息ID',	'plet_msg__to_userid':'收件人ID',	'plet_msg__from_userid':'发件人ID'};

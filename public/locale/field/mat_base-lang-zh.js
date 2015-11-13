@@ -1,0 +1,1 @@
+﻿jdLang['mat_base'] = {	'mat_base__mat_code':'物资编码',	'mat_base__mat_name':'物资名称',	'mat_base__mat_size':'型号规格',	'mat_base__mat_unit':'计量单位',	'mat_base__type_code':'类别编号',	'mat_base__type_name':'类别名称',	'mat_base__type_id':'类别ID',	'mat_base__mat_id':'物资ID'};

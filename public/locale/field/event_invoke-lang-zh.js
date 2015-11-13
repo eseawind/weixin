@@ -1,0 +1,1 @@
+﻿jdLang['event_invoke'] = {	'fun_event_invoke__module_name':'类路径与名',	'fun_event_invoke__method_name':'方法名',	'fun_event_invoke__invoke_index':'序号',	'fun_event_invoke__event_code':'系统事件代码',	'fun_event_invoke__position':'扩展位置',	'fun_event_invoke__invoke_memo':'类说明',	'fun_event_invoke__event_id':'事件ID',	'fun_event_invoke__invoke_id':'调用ID'};

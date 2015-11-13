@@ -1,0 +1,1 @@
+﻿jdLang['wfnav_graph'] = {	'wfnav_graph__graph_code':'流程图编号',	'wfnav_graph__graph_name':'流程图名称',	'wfnav_graph__module_name':'模块名称',	'wfnav_graph__auditing':'记录状态',	'wfnav_graph__graph_id':'主键',	'wfnav_graph__module_id':'模块ID'};

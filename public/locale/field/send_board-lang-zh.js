@@ -1,0 +1,1 @@
+﻿jdLang['send_board'] = {	'plet_msg__msg_title':'公告标题',	'plet_msg__from_user':'编辑人',	'plet_msg__content':'公告内容',	'plet_msg__send_date':'发送时间',	'plet_msg__msg_state':'公告状态',	'plet_msg__msg_type':'消息类型',	'plet_msg__dept_name':'阅读部门',	'plet_msg__from_userid':'编辑人ID',	'plet_msg__msg_id':'消息ID',	'plet_msg__dept_id':'部门ID',	'plet_msg__dept_code':'部门编码'};

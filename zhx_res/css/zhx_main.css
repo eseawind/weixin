@@ -1,0 +1,44 @@
+﻿
+#header{ color: #fff; height: 66px; display: block; width: 100%; background: rgb(53,154,221); background-color: #1C88D4;font-size: 12px; font-family: Arial,sans-serif;}
+#header a{text-decoration:none;color:#333;}
+#header a:hover{color:#F60; text-decoration: underline;text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);transition: all 0.2s linear 0s;-webkit-transition: all 0.2s linear 0s;}
+#header h1{ color: #fff0; font-size: 14px; line-height: 23px; padding: 15px 0px 0px 0px; margin: 0;}
+#header h1 div{ font-weight: normal; font-size: 12px; color: #E0F5FF;}
+#header h1 a{ color: #fff;}
+#header #logo{ background-image: url("../images/logo_lg.png"); background-repeat: no-repeat; float: left; height: 48px; margin: 10px 20px; width: 157px;}
+#header #logo b{ color: #FFFFFF; font-size: 15px; font-weight: bold; margin: 20px 0 0 70px; position: absolute;}
+
+#searchbar{ float: right; margin: 5px 0 0 0; line-height: 30px; color: #fff; padding: 0 10px; text-align: right; filter: alpha(opacity=90);width:300px;}
+#searchbar a{ color: #fff;}
+#searchbar:hover{ filter: none;}
+#searchbar input{ width: 250px;}
+.search-input{ text-decoration: none; height: 22px; overflow: hidden; cursor: hand; float: right; margin: 0 5px 0 0;}
+.search-input input{ color: #999999; padding: 3px 8px 3px 25px; margin: 0 0 0 8px; border: none; float: left; height: 20px; line-height: 16px; background-image: url('../images/search-bg.gif'); background-repeat: no-repeat; background-position: 3px center; font-size: 13px; background-position: 3px center; box-shadow: 1px 1px 3px #C3C3C3 inset;border-radius:3px}
+
+#center{ margin: 2px 0 0; font-size: 12px; font-family: Arial,sans-serif;}
+#sidebar{ width: 185px; margin: 0px; float: left; margin: -2px 0 0; position: absolute; height: auto; height: 100%;}
+
+#task-navigation{ padding: 0; margin: 0 0 0 0; border-style: solid; border-color: #ebf2fa #A3D1F0 #7FC3F0 #fff; border-width: 1px 1px 0 0; background: #ebf2fa; background-image: url('../images/bg.jpg');}
+#task-navigation ul{ list-style: none; margin: 5px 0 5px 0; padding: 0;}
+#task-navigation ul li{ padding: 0 0 0 0; height: 25px; position: relative;}
+#task-navigation ul i{ padding: 0 0 0 20px;}
+#task-navigation li span{ color: #354b66; text-decoration: none; display: block; line-height: 25px; padding: 0 0 0 20px; height: 25px;}
+#task-navigation span{ cursor: pointer;}
+#task-navigation h3 img{ margin: 0;}
+#task-navigation h3{ margin: 5px 0 5px 0px; padding: 0 0 0 20px; color: #069; border-color: #6CBBF0; border-style: dotted; border-width: 0 0 1px 0; font-size: 12px; line-height: 23px;}
+#task-navigation h3 .dropdownlink{ float: right; padding: 0; margin: 0;}
+#task-navigation h3 .dropdownlink li.disabled{ color: #999;}
+#task-navigation h3 .dropdownlink li.disabled:Hover{ background: #fff;}
+#task-navigation h3 ul{ padding: 3px 5px; margin: 0;}
+
+#task-navigation li.active span{ padding: 0 0 0 10px !important; margin-left: 10px !important; background-color: #fff !important; position: absolute !important;z-index: 99 !important; cursor: default !important; height: 25px !important; width: 164px !important;width: 176px; border-top-left-radius: 5px !important; border-bottom-left-radius: 5px !important; border-top-right-radius: 0px !important; border-bottom-right-radius: 0px !important; border-style: solid !important; border-color: #95CBF0 !important; border-width: 1px 0 1px 1px !important;}
+#task-navigation li span:hover{ background-color: #B1DDFA;border-radius: 5px 5px 5px 5px; height: 25px; margin-left: 10px; padding: 0 15px 0 10px; position: absolute; width: 140px; z-index: 98; text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);-webkit-transition: background-color 0.2s linear 0s;transition: background-color 0.2s linear 0s;}
+#task-navigation  .spanover{ background-color: #B1DDFA; margin-left: 10px;padding: 0 15px 0 10px;width: 165px;}
+
+#desktop{ margin: 0px; padding: 0px;}
+#desktop{ width: 100%; list-style-type: none; margin: 0; padding: 0; min-height: 520px;}
+
+#open_menu li img{ margin: 0; display: none;}
+#open_menu li:hover img{ display: block; position: absolute; top: 5px; float: right; right: 10px; z-index: 9999;}
+#open_menu .divhover{ display: block; position: absolute; top: 5px; float: right; right: 10px;z-index: 9999;}
+

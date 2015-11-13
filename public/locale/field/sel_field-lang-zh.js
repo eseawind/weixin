@@ -1,0 +1,1 @@
+﻿jdLang['sel_field'] = {	'v_field_info__col_code':'字段代码',	'v_field_info__col_name':'字段名称',	'v_field_info__col_index':'字段序号',	'v_field_info__data_type':'数据类型',	'v_field_info__col_control':'控件类型',	'v_field_info__format_id':'数据样式',	'v_field_info__table_name':'表名'};

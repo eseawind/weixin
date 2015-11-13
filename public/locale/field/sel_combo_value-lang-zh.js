@@ -1,0 +1,1 @@
+﻿jdLang['sel_combo_value'] = {	'funall_control__value_data':'控件值',	'funall_control__display_data':'显示值',	'funall_control__control_index':'序号',	'funall_control__control_code':'控件代码',	'funall_control__control_name':'控件名称',	'funall_control__control_id':'控件ID'};

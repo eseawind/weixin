@@ -1,0 +1,1 @@
+﻿jdLang['sys_role_fun'] = {	'fun_base__fun_name':'功能名称',	'sys_role_fun__is_edit':'编辑权限',	'sys_role_fun__is_print':'打印权限',	'sys_role_fun__is_audit':'审批权限',	'sys_role_fun__is_other':'其它权限',	'sys_role_fun__role_id':'角色ID',	'sys_role_fun__fun_id':'功能ID',	'sys_role_fun__role_fun_id':'设置ID'};

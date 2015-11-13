@@ -1,0 +1,1 @@
+﻿jdLang['imp_field'] = {	'imp_field__field_name':'字段名称',	'imp_field__field_title':'字段标题',	'imp_field__field_pos':'位置',	'imp_field__data_type':'数据类型',	'imp_field__is_must':'必填?',	'imp_field__is_param':'非新增值',	'imp_field__field_no':'序号',	'imp_field__data_src':'来源',	'imp_field__field_id':'主键',	'imp_field__imp_id':'定义ID'};

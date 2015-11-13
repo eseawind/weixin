@@ -1,0 +1,1 @@
+﻿jdLang['rule_route'] = {	'fun_rule_route__src_funid':'来源功能ID',	'fun_rule_route__where_sql':'来源功能Where',	'fun_rule_route__where_type':'参数类型',	'fun_rule_route__where_value':'页面参数名',	'fun_rule_route__layout_page':'导入布局',	'fun_rule_route__fun_id':'目标功能ID',	'fun_rule_route__route_id':'路由ID'};

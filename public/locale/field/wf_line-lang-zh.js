@@ -1,0 +1,1 @@
+﻿jdLang['wf_line'] = {	'wf_line__line_id':'流转ID',	'wf_line__line_title':'流转标题',	'wf_line__line_type':'流转类型',	'wf_line__source_id':'来源节点ID',	'wf_line__target_id':'目标节点ID',	'wf_line__wfline_id':'主键',	'wf_line__process_id':'过程ID'};

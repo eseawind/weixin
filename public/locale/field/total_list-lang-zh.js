@@ -1,0 +1,1 @@
+﻿jdLang['total_list'] = {	'rpt_list__report_index':'序号',	'rpt_list__report_name':'报表名称',	'rpt_list__report_file':'模板文件',	'rpt_list__fun_id':'所属功能',	'rpt_list__module_id':'所属模块',	'rpt_list__report_type':'报表样式',	'rpt_list__is_default':'缺省?',	'rpt_list__custom_class':'自定义报表类',	'rpt_list__report_memo':'报表备注',	'rpt_list__report_id':'报表ID'};

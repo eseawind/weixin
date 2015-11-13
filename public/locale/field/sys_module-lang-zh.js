@@ -1,0 +1,1 @@
+﻿jdLang['sys_module'] = {	'funall_module__module_code':'模块编号',	'funall_module__module_name':'模块名称',	'funall_module__module_index':'序号',	'funall_module__is_show':'是否显示',	'funall_module__is_expanded':'是否展开',	'funall_module__module_level':'级别',	'funall_module__module_id':'模块ID'};

@@ -1,0 +1,1 @@
+﻿jdLang['sys_coderule'] = {	'sys_coderule__code_ext':'编码扩展',	'sys_coderule__code_no':'编码流水号',	'sys_coderule__code_length':'编码长度,不含前缀',	'sys_coderule__code_memo':'编码规则说明',	'sys_coderule__rule_id':'编码规则ID',	'sys_coderule__fun_id':'功能ID'};

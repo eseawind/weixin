@@ -1,0 +1,1 @@
+﻿jdLang['wf_subprocess'] = {	'wf_subprocess__sub_process':'子过程',	'wf_subprocess__sub_processid':'子过程ID',	'wf_subprocess__node_id':'节点ID',	'wf_subprocess__wfsub_id':'主键',	'wf_subprocess__process_id':'过程ID'};

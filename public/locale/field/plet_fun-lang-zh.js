@@ -1,0 +1,1 @@
+﻿jdLang['plet_fun'] = {	'plet_fun__fun_id':'功能ID',	'plet_fun__fun_name':'功能名称',	'plet_fun__fun_no':'序号',	'plet_fun__det_id':'明细ID',	'plet_fun__portlet_id':'栏目ID'};

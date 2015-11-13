@@ -1,0 +1,1 @@
+﻿jdLang['sys_taskparam'] = {	'task_param__param_name':'参数名称',	'task_param__param_value':'参数值',	'task_param__param_memo':'参数描述',	'task_param__task_id':'任务ID',	'task_param__param_id':'参数ID'};

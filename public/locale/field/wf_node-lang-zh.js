@@ -1,0 +1,1 @@
+﻿jdLang['wf_node'] = {	'wf_node__node_id':'节点ID',	'wf_node__node_title':'节点名称',	'wf_node__node_type':'节点类型',	'wf_node__wfnode_id':'主键',	'wf_node__process_id':'过程ID'};

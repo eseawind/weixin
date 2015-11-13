@@ -1,0 +1,1 @@
+﻿jdLang['mat_app1'] = {	'mat_app__app_code':'申请单号',	'mat_app__app_date':'申请日期',	'mat_app__dept_name':'申请部门',	'mat_app__app_cause':'申请理由',	'mat_app__project_name':'项目名称',	'mat_app__app_status':'申请状态',	'mat_app__app_id':'主键',	'mat_app__dept_id':'申请部门ID'};

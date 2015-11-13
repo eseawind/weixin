@@ -1,0 +1,1 @@
+﻿jdLang['dm_viewcfg'] = {	'dm_viewcfg__state':'状态',	'dm_viewcfg__view_name':'视图名称',	'dm_viewcfg__view_memo':'视图说明',	'dm_viewcfg__view_sql':'视图脚本',	'dm_viewcfg__view_id':'视图ID'};

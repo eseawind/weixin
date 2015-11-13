@@ -1,0 +1,1 @@
+﻿jdLang['sys_query'] = {	'sys_query__query_name':'查询方案',	'sys_query__is_default':'缺省?',	'sys_query__query_no':'序号',	'sys_query__is_share':'共享?',	'sys_query__user_name':'创建人',	'sys_query__query_id':'查询ID',	'sys_query__fun_id':'功能ID',	'sys_query__user_id':'创建人ID'};

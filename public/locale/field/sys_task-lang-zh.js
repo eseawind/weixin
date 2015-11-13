@@ -1,0 +1,1 @@
+﻿jdLang['sys_task'] = {	'task_base__task_name':'任务名称',	'task_base__task_class':'后台类',	'task_base__task_plan':'执行计划',	'task_base__task_state':'任务状态',	'task_base__has_log':'保留日志？',	'task_base__log_num':'最大日志条数',	'task_base__run_date':'上次运行时间',	'task_base__task_type':'任务类型',	'task_base__task_memo':'任务描述',	'task_base__task_id':'任务ID'};

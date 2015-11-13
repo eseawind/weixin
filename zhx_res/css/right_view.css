@@ -1,0 +1,83 @@
+﻿
+#sys_main_tab div.thumb-wrap {
+    float: left;
+    padding: 8px 17px;
+    margin: 5px;
+    text-align: center;
+    line-height: 14px;
+    color: #333;
+	font-family: Arial,sans-serif;
+	height: 90px!important;
+    width: 100px!important;
+    height: 110px;
+    width: 140px;
+    overflow: hidden;
+    border: solid 1px #fff;
+	border-radius: 6px;
+    cursor: pointer;
+}
+
+#sys_main_tab div.thumb-wrap img {
+	width: 32px;
+	height:32px;
+    margin-bottom: 1px;
+}
+
+.x-ie6 #sys_main_tab div.thumb-wrap,
+.x-ie7 #sys_main_tab div.thumb-wrap,
+.x-ie8 #sys_main_tab div.thumb-wrap {
+    border-top: none;
+    padding: 3px 2px;
+    margin: 2px;
+}
+
+#sys_main_tab div.thumb-wrap-hover {
+    background-color: #E8F9FE;
+	border-color: #96E5FF;
+}
+
+#sys_main_tab .x-item-selected {
+    background-color: #E8F9FE !important;
+}
+
+#sys_main_tab div.thumb-wrap span {
+    color: #006699;
+    display: block;
+	font-size: 14px;
+	line-height: 2.5;
+}
+
+#sys_main_tab div.thumb-wrap a {
+    font-size: 12px;
+	display:inline-block;
+	width: auto;
+	clear: none;
+	color: #8C8C8C;
+	text-decoration:none;
+}
+#sys_main_tab div.thumb-wrap a:hover{
+    color: #f05;
+	text-decoration: none;
+}
+#sys_main_tab div.thumb-wrap a:hover span{
+    color: #f05;
+	text-decoration: underline;
+}
+
+#sys_main_tab .panel-header{
+	 padding: 5px;
+	 color: #036;
+	 border-style: dashed;
+	 border-width: 0 0 1px 0;
+	 border-color: #CCEDFF;
+	 margin-bottom:15px;
+}
+
+#sys_main_tab .listicon{
+	padding: 0px 0px 0px 5px;
+	float: right;
+	cursor: pointer;
+ }
+ 
+
+ 

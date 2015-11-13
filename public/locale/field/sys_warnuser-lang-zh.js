@@ -1,0 +1,1 @@
+﻿jdLang['sys_warnuser'] = {	'sys_user__user_code':'用户编码',	'warn_user__user_name':'用户姓名',	'warn_user__cond_where':'分配条件',	'sys_dept__dept_code':'部门编码',	'sys_dept__dept_name':'部门名称',	'warn_user__user_detid':'分配ID',	'sys_dept__dept_id':'部门ID',	'warn_user__warn_id':'上报ID',	'warn_user__user_id':'用户ID'};

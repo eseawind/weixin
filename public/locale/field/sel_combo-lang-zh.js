@@ -1,0 +1,1 @@
+﻿jdLang['sel_combo'] = {	'v_combo_control__control_code':'控件代号',	'v_combo_control__control_name':'控件名称'};
